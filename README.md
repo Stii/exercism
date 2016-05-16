@@ -1,0 +1,2 @@
+# exercism
+Some exercism exercises
